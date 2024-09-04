@@ -3,6 +3,7 @@
 Palavras-Chaves: IA, Imagens
 
 Passo a Passo:
+
 1- Usando o Azure para criar um Laboratório Vision;
 
 2- Usando Vision Studio para fazer a leitura dos textos nas imagens;
